@@ -12,4 +12,4 @@ def count_to_log_level(count: int) -> int:
     elif count == 2:
         return logging.INFO
     else:
-        return logging.DEBUG
+       return logging.DEBUG
